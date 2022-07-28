@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1d66d68-6500-4207-95b6-5bcf6c8e8b4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CFjOny1JKS06cYWVvWkVAQzmzq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mytest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mytest.mytest" />
+      <module name="mytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mytest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1d66d68-6500-4207-95b6-5bcf6c8e8b4a" name="Default Changelist" comment="" />
+      <created>1658405197658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658405197658</updated>
+      <workItem from="1658405199607" duration="1471000" />
+      <workItem from="1658886410842" duration="701000" />
+      <workItem from="1658891638018" duration="615000" />
+      <workItem from="1658913901416" duration="801000" />
+      <workItem from="1658928917401" duration="721000" />
+      <workItem from="1659004739604" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="952" height="269" key="GridCell.Tab.0.bottom" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.0.center" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.0.left" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.0.right" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.1.bottom" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.1.center" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.1.left" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state width="952" height="269" key="GridCell.Tab.1.right" timestamp="1659005257453">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="952" height="269" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1659005257453" />
+    <state x="689" y="434" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1658405383767">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="689" y="434" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1658405383767" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mytest/mytest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mytest/mytest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
